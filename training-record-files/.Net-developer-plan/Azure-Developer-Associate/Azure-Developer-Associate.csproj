@@ -3,13 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>working_with_dependencies</RootNamespace>
+    <RootNamespace>Azure_Developer_Associate</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Humanizer" Version="3.0.10" />
-  </ItemGroup>
 
 </Project>
