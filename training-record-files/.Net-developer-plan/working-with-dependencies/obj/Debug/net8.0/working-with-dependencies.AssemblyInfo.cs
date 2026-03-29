@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("working-with-dependencies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b7a1e7fe9e7f96c15f4cb154c95baf2ff81efde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07865402716b6069393c83b3fbbdaad531d7933d")]
 [assembly: System.Reflection.AssemblyProductAttribute("working-with-dependencies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("working-with-dependencies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
