@@ -20,3 +20,5 @@ static void HumanizeDates()
     Console.WriteLine(TimeSpan.FromDays(1).Humanize());
     Console.WriteLine(TimeSpan.FromDays(16).Humanize());
 }
+
+// test for git commands from terminal
